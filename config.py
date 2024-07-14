@@ -4,13 +4,13 @@ API_ID = API_ID =  28590119
 
 API_HASH = os.environ.get("API_HASH", "2494557bf21e6c5152f26070aa1a97c7")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7438982903:AAHp4jeZn49KAqWUOcaY3BUBBdpxOgwPUCQ")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7438WUOcaY3BUBBdxOgwPUCQ")
 
 PASS_DB = int(os.environ.get("PASS_DB", "721"))
 
-OWNER = int(os.environ.get("OWNER", 5483260471))
+OWNER = int(os.environ.get("OWNER", 548326071))
 
-LOG = -1002178248809,
+LOG = -100217824809,
 
 # UPDATE_GRP = -1002140332321, # bot sat group
 
