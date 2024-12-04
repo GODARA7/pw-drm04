@@ -34,7 +34,7 @@ bot = Client("bot",
              #bot_token= os.environ.get("BOT_TOKEN"),
              api_id= 26512964,
              api_hash= "e5d187c6c7a0919ccb8866f76f655701")
-auth_users = [7246728595)]
+auth_users = [7246728595]
 #romeo  -4679498951 
 
 owner_id = 7246728595)
