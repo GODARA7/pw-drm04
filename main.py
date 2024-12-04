@@ -35,7 +35,7 @@ bot = Client("bot",
              api_id= 26512964,
              api_hash= "e5d187c6c7a0919ccb8866f76f655701")
 auth_users = [7246728595)]
-#romeo  -1923922961 
+#romeo  -4679498951 
 
 owner_id = 7246728595)
 # Extras 
