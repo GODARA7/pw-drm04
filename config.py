@@ -6,7 +6,7 @@ API_HASH = os.environ.get("API_HASH", "e5d187c6c7a0919ccb8866f76f655701")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "7916334119:AAFAsGnwdtO_o8NQbMFR-iHbzkwObyHvWLI")
 
-PASS_DB = int(os.environ.get("PASS_DB", "mongodb+srv://weloxa8533:WKmtuOzgMtTFGCrC@cluster0.jrz7hfn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"))
+PASS_DB = int(os.environ.get("PASS_DB", "mongodb+srv://sujay5372192:sujay5372192@cluster00001.zivqq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster00001"))
 
 OWNER = int(os.environ.get("OWNER", 7246728595))
 
