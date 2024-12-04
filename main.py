@@ -37,7 +37,7 @@ bot = Client("bot",
 auth_users = [7246728595]
 #romeo  -4679498951 
 
-owner_id = 7246728595)
+owner_id = (7246728595)
 # Extras 
 failed_links = []  # List to store failed links
 fail_cap =f"**➜ This file Contain Failed Downloads while Downloding \n You Can Retry them one more time **"
