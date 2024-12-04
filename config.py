@@ -1,24 +1,24 @@
 import os
 
-API_ID = API_ID =  28590119
+API_ID = API_ID =  26512964
 
-API_HASH = os.environ.get("API_HASH", "2494557bf21e6c5152f26070aa1a97c7")
+API_HASH = os.environ.get("API_HASH", "e5d187c6c7a0919ccb8866f76f655701")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7438WUOcaY3BUBBdxOgwPUCQ")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7916334119:AAFAsGnwdtO_o8NQbMFR-iHbzkwObyHvWLI")
 
-PASS_DB = int(os.environ.get("PASS_DB", "721"))
+PASS_DB = int(os.environ.get("PASS_DB", "mongodb+srv://weloxa8533:WKmtuOzgMtTFGCrC@cluster0.jrz7hfn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"))
 
-OWNER = int(os.environ.get("OWNER", 548326071))
+OWNER = int(os.environ.get("OWNER", 7246728595))
 
-LOG = -100217824809,
+LOG = -4679498951,
 
-# UPDATE_GRP = -1002140332321, # bot sat group
+# UPDATE_GRP = -4679498951, # bot sat group
 
-# auth_chats = [5219193259,1327415906]
+# auth_chats = [7246728595]
 
 try:
     ADMINS=[]
-    for x in (os.environ.get("ADMINS", "1782965867").split()):
+    for x in (os.environ.get("ADMINS", "7246728595").split()):
         ADMINS.append(int(x))
 except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
